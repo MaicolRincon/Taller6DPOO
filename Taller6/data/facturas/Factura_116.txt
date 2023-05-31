@@ -1,0 +1,24 @@
+
+Factura N° 116
+________________________________________________________________
+       Nombre Cliente: maic
+       Dirección: 11
+________________________________________________________________
+Productos adquiridos:
+
+ --- Combos ----
+combo corral     Calorias: 141.0
+combo corral     Calorias: 141.0
+combo corral     Calorias: 141.0
+combo corral     Calorias: 141.0
+combo especial     Calorias: 126.0
+combo corral     Calorias: 141.0
+combo corral     Calorias: 141.0
+
+________________________________________________________________
+
+                                      Precio Neto: 164385.0
+                                       Precio IVA: 31233.15
+----------------------------------------------------------------
+                                     Precio Total: 195618.15
+                                     Calorias Totales: 972
